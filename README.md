@@ -1,1 +1,1 @@
-# interactive-world-map
+# interactive-markers
